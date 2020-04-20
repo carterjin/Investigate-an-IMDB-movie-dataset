@@ -1,6 +1,6 @@
 # Investigate-an-IMDB-movie-dataset
 
-The dataset we are analysing is the TMDb movie data, a quick view of the csv file with Excel shows us that the data contains about 10000 of these information: movie ID, imdb ID, popularity, budget, revenue, movie title, a list of casts, homepage url, director, tagline, keywords, overview, runtime in minutes, a list of genres, a list of production companies, release dates, vote counts, vote averages, release years and adjusted budget and revenue considering inflation over the years, in term of 2010 dollars.
+The dataset we are analysing is the TMDb movie data, the data contains about 10000 of these information: movie ID, imdb ID, popularity, budget, revenue, movie title, a list of casts, homepage url, director, tagline, keywords, overview, runtime in minutes, a list of genres, a list of production companies, release dates, vote counts, vote averages, release years and adjusted budget and revenue considering inflation over the years, in term of 2010 dollars.
 
 From the data analysis, we drew the following conclusions:
 
